@@ -8,7 +8,7 @@ A simple and easy-to-use **online invoice generator** for freelancers, small bus
 
 ## About Invoice Generator
 
-[Invoice Generator Online](https://invoice-generator.online/) is a free web-based tool designed to make invoice creation quick and straightforward. You can prepare professional invoices directly from your browser without dealing with complicated invoicing software.
+Invoice Generator Online is a free web-based tool designed to make invoice creation quick and straightforward. You can prepare professional invoices directly from your browser without dealing with complicated invoicing software.
 
 The tool is useful for freelancers, consultants, small businesses, agencies, and independent professionals who want a convenient way to create invoices for their clients.
 
@@ -28,7 +28,7 @@ The tool is useful for freelancers, consultants, small businesses, agencies, and
 
 ## How to Create an Invoice
 
-1. Visit [invoice-generator.online](https://invoice-generator.online/)
+1. Visit invoice-generator.online
 2. Enter your business information.
 3. Add your customer's billing details.
 4. Enter the products or services being billed.
@@ -61,14 +61,9 @@ Creating invoices manually in spreadsheets or documents can take unnecessary tim
 
 Need to prepare an invoice for a client?
 
-👉 **[Create a Free Invoice Online](https://invoice-generator.online/)**
+👉 **Create a Free Invoice Online**
 
 Enter your billing information, add your products or services, review the totals, and generate a professional invoice in minutes.
-
-## Website
-
-**Invoice Generator Online**  
-[https://invoice-generator.online/](https://invoice-generator.online/)
 
 ---
 
