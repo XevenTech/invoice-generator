@@ -4,6 +4,8 @@ A simple and easy-to-use **online invoice generator** for freelancers, small bus
 
 🌐 **Try the tool:** [Invoice Generator](https://invoice-generator.online/)
 
+[![Generate Now](https://github.com/XevenTech/projects_snapshots/blob/main/invoice-generator/invoice-generator.png?raw=true "Click to Generate Now")](https://invoice-generator.online/)
+
 ## About Invoice Generator
 
 [Invoice Generator Online](https://invoice-generator.online/) is a free web-based tool designed to make invoice creation quick and straightforward. You can prepare professional invoices directly from your browser without dealing with complicated invoicing software.
